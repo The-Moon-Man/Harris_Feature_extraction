@@ -1,1 +1,1 @@
-# 本篇函数与参考文章基本一致，只做了小幅度更改。遗传算法+非线性优化具体算法流程请浏览我的博客https://blog.csdn.net/phr1899/article/details/128555662
+# Harris角点的特征提取和特征匹配以及对图像进行平移拼接具体算法流程，请浏览我的博客https://blog.csdn.net/phr1899/article/details/128555662
